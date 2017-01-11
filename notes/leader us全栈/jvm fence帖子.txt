@@ -1,0 +1,11 @@
+http://blog.csdn.net/iter_zc/article/details/42006811
+http://blog.csdn.net/tureboyyyy/article/details/46680741
+http://blog.csdn.net/coslay/article/details/41955899
+http://blog.csdn.net/lobalfly/article/details/40226329
+http://www.zhihu.com/question/29465982
+http://stackoverflow.com/questions/23603304/java-8-unsafe-xxxfence-instructions
+http://www.tuicool.com/articles/baq6j2V
+http://www.importnew.com/10589.html
+http://www.infoq.com/cn/articles/memory_barriers_jvm_concurrency/
+http://www.zhihu.com/question/29465982/answer/44465936
+http://ifeve.com/jmm-cookbook/

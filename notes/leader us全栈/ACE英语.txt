@@ -1,0 +1,2 @@
+http://www.chuanke.com/v1013047-154308-590048.html
+select count(m3) as pv,count(distinct m3) as device,sum(case when sov>="1.1.0.0" then 1 else 0 end)as new_jv_pv, sum(case when sov>="1.1.0.0" then mpv else 0 end)as new_jv_ac_ic  from jiagu_log_all where year=2016  and month=9 and day=26; 
